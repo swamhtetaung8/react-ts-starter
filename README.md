@@ -7,7 +7,7 @@
 5. redux-toolkit/redux
 6. folder structure
 
-***Feel free to clone it for your projects :) ***    
+***Feel free to clone it for your projects :)***    
 
 Provided by - [Swam Htet Aung](https://github.com/swamhtetaung8)
           
